@@ -1,7 +1,5 @@
 /**
  * Name: Jacob Hellebrand
- * Email: jacobhellebrand@csu.fullerton.edu
- * CWID: 887343457
  */
 
 #include <iostream>
